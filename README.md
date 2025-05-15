@@ -29,7 +29,7 @@ A high-performance Python script to download videos from Bunny CDN with DRM supp
 1. Install Python from [python.org](https://www.python.org/downloads/)
 2. Clone the repository:
 ```powershell
-git clone https://github.com/yourusername/bunny-cdn-video-downloader.git
+git clone https://github.com/01RG0/yt-dlp-downloader.git
 cd yt-dlp-downloader
 ```
 3. Install requirements:
