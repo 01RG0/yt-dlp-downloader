@@ -1,3 +1,4 @@
+https://iframe.mediadelivery.net/embed/33074/901f7778-8620-4e4d-b33d-c44efeab8464?autoplay=true&loop=false&muted=false&preload=true&responsive=true
 # Fast Bunny CDN Video Downloader with Quality Selection
 
 A high-performance Python script to download videos from Bunny CDN with DRM support and quality selection options. Features optimized download speeds with progress tracking.
